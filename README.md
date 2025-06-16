@@ -1,4 +1,4 @@
-```
+```bash
 __        __   _                                   
 \ \      / /__| | ___ ___  _ __ ___   ___   
  \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \  
@@ -67,9 +67,8 @@ __        __   _
 
 ## 📫 How to reach me
 
-- Email: [](allyearmustobey@gmail.com)
-- Twitter: [Twitter](https://twitter.com/your_twitter_handle)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin/)
+- Email: [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrkVlxHdXXxxXxDKdbGgWgfLSRkcSrMldLwrcRHNRTRvclcgRGHcNfHLsbzZglVlxPJjqB)
+- LinkedIn: [Your Name](www.linkedin.com/in/muhammad-habeebulah-b36a2a275)
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-habeebulah-b36a2a275/)
