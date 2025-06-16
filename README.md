@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" />
 
 ## 💡 About Me
-- 👨‍💻 Fullstack Engineer at **TheMothership** — working on advanced AI-driven systems.
+- 👨‍💻 Fullstack Engineer at **VeloxGrid** 
 - 📚 Programming Instructor at **Florintech Academy**, mentoring students in software engineering fundamentals.
 - 🧠 I love solving real-world problems with **Typescript**, **Node.js**, **Python**, and **React**.
 - 🧑🏽‍🏫 Active in **volunteering** — mentoring young students at tech institutes.
