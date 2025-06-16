@@ -52,9 +52,6 @@ __        __   _
 ![Nx](https://img.shields.io/badge/-Nx-143055?style=flat-square&logo=nrwl&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
-## 📈 GitHub Stats
-
-![CreatorXperience's GitHub stats](https://github-readme-stats.vercel.app/api?username=CreatorXperience&show_icons=true&theme=default)
 
 ## 📚 Certifications
 - 🎓 **Modern React with Redux** – Udemy  
