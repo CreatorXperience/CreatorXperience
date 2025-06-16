@@ -13,6 +13,12 @@
 - 🧑🏽‍🏫 Active in **volunteering** — mentoring young students at tech institutes.
 - 🔧 DevOps tools & practices enthusiast: **Docker**, **Linux**, **Bash**, **Ansible**, **System Admin**.
 
+
+## 📈 GitHub Stats
+
+![CreatorXperience's GitHub stats](https://github-readme-stats.vercel.app/api?username=CreatorXperience&show_icons=true&theme=default)
+
+
 ## 🛠️ Tech Stack
 
 **Languages**  
@@ -51,6 +57,12 @@
 - 💬 Teaching, mentoring, and public speaking.
 - 🚀 Working on impactful tech for good.
 
+## 📫 How to reach me
+
+- Email: [your-email@example.com]
+- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin/)
+
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-habeebulah-b36a2a275/)
 📍 Ojo, Lagos, Nigeria  
@@ -58,4 +70,6 @@
 
 ---
 
-_“Code. Teach. Impact.”_
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+```
