@@ -1,7 +1,5 @@
 
-  /|   |\/| |--| |\ | |\ | |--| |\ | |-- /\
- /_|   |  | |  | | \| | \| |  | | \| |__ \_|
-             C R E A T O R X P E R I E N C E
+                   C R E A T O R X P E R I E N C E
 
 
 # 👋 Hi, I'm Muhammad Habeebulah
