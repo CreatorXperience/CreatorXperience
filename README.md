@@ -9,7 +9,7 @@ __        __   _
 
 # 👋 Hi, I'm Muhammad Habeebulah
 
-**Software Engineer | Fullstack Developer | DevOps Enthusiast**
+**Software Engineer | Fullstack Developer | Linux and Security Enthusiast**
 
 🎯 Passionate about building scalable, user-centric applications and teaching the next generation of developers.
 
