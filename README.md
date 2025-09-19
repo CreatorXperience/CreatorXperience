@@ -13,7 +13,7 @@ __        __   _
 
 🎯 Passionate about software and security, currently venturing into security 🔒.
 
-😀 Fun facts: I don't want to build software anymore there's already plenty of those, I wanna protect your software.
+😀 Fun fact: I’m done building software, there’s too much already. Now I just protect it.
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRra2VraTN1dzVtZHlibm9ua2pmanZuMWhydXlnZjNsN2h3NjV5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="300" align="right" />
 
