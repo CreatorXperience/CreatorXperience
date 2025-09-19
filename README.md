@@ -15,7 +15,7 @@ __        __   _
 
 😀 Fun fact: I’m done building software, there’s too much already. Now I just protect it.
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRra2VraTN1dzVtZHlibm9ua2pmanZuMWhydXlnZjNsN2h3NjV5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="300" align="right" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHdjZHQyeTEzZnowcTV1NGZsNHFobjFnd2R6M2RoNGg0d3RwcjNyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTBVMsYIOB0SBP4MVe/giphy.gif" width="300" align="right" />
 
 ## 💡 About Me
 - Obsessed with cybersecurity 🤯
