@@ -9,20 +9,19 @@ __        __   _
 
 # 👋 Hi, I'm Muhammad Habeebulah
 
-** 💻 Software Engineer | 🐧   Linux and  🔐  Security Enthusiast**
+** 💻 Software Engineer | 🐧 Linux and  🔐  Security Enthusiast**
 
 🎯 Passionate about software and security, currently venturing into security 🔒.
 
-😀 Fun facts: I don't want to build software there's already plenty of those, I wanna protect your software.
+😀 Fun facts: I don't want to build software anymore there's already plenty of those, I wanna protect your software.
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRra2VraTN1dzVtZHlibm9ua2pmanZuMWhydXlnZjNsN2h3NjV5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="300" align="right" />
 
 ## 💡 About Me
 - 👨‍💻 Fullstack Engineer at **VeloxGrid** 
 - 📚 Programming Instructor at **Florintech Academy**, mentoring students in software engineering fundamentals.
-- 🧠 I love solving real-world problems with **Typescript**, **Node.js**, **Python**, and **React**.
+- 🧠 I love solving real-world problems with **Typescript**, **Node.js**, **Python**.
 - 🧑🏽‍🏫 Active in **volunteering** — mentoring young students at tech institutes.
-
 
 
 ## 📈 GitHub Stats
