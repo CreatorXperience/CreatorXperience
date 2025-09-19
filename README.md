@@ -9,9 +9,11 @@ __        __   _
 
 # 👋 Hi, I'm Muhammad Habeebulah
 
-**Software Engineer | Fullstack Developer | Linux and Security Enthusiast**
+** 💻 Software Engineer | 🐧   Linux and  🔐  Security Enthusiast**
 
-🎯 Passionate about building scalable, user-centric applications and teaching the next generation of developers.
+🎯 Passionate about software and security, currently venturing into security 🔒.
+
+😀 Fun facts: I don't want to build software there's already plenty of those, I wanna protect your software.
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" />
 
@@ -20,7 +22,7 @@ __        __   _
 - 📚 Programming Instructor at **Florintech Academy**, mentoring students in software engineering fundamentals.
 - 🧠 I love solving real-world problems with **Typescript**, **Node.js**, **Python**, and **React**.
 - 🧑🏽‍🏫 Active in **volunteering** — mentoring young students at tech institutes.
-- 🔧 DevOps tools & practices enthusiast: **Docker**, **Linux**, **Bash**, **Ansible**, **System Admin**.
+
 
 
 ## 📈 GitHub Stats
@@ -54,18 +56,19 @@ __        __   _
 
 
 ## 📚 Certifications
-- 🎓 **Modern React with Redux** – Udemy  
-- 🐍 **Python for DevOps** – Udemy
+- 🎓 **Modern React with Redux** – Udemy
+- Google Cybersecurity professional certificate - Coursera
 
 ## ✨ Interests
 - 👨🏽‍💻 Always learning new programming languages and tools.
-- 💬 Teaching, mentoring, and public speaking.
+- 💬 Teaching, mentoring.
 - 🚀 Working on impactful tech for good.
+- Love security
 
 ## 📫 How to reach me
 
 - Email: [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrkVlxHdXXxxXxDKdbGgWgfLSRkcSrMldLwrcRHNRTRvclcgRGHcNfHLsbzZglVlxPJjqB)
-- LinkedIn: [Your Name](www.linkedin.com/in/muhammad-habeebulah-b36a2a275)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/muhammad-habeebulah-b36a2a275)
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-habeebulah-b36a2a275/)
