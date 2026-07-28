@@ -46,10 +46,10 @@
 
 ## 💡 About Me
 - Obsessed with cybersecurity 🤯
-- 👨‍💻 Fullstack Engineer at **VeloxGrid** 
+- 👨‍💻 Fullstack Engineer at **Sourcerra** 
 - 📚 Programming Instructor at **Florintech Academy**, mentoring students in software engineering fundamentals.
-- 🧠 I love solving real-world problems with **Typescript**, **Node.js**, **Python**.
-- 🧑🏽‍🏫 Active in **volunteering** — mentoring young students at tech institutes.
+- 🧠 I love solving hacking (ethically 😎)
+- 🧑🏽‍🏫 Active in **volunteering** — available to mentor young students at any institutes.
 
 
 ## 📈 GitHub Stats
@@ -83,10 +83,17 @@
 
 
 ## 📚 Certifications
-- 🎓 **Modern React with Redux** – Udemy
 - Google Cybersecurity professional certificate - Coursera
+- SOC Analyst 1 - Let's Defend
+- Comptia A+ Core 1 & 2 - Udemy
+- 🎓 **Modern React with Redux** – Udemy
+
 
 ## ✨ Interests
+- I like breaking things
+- I love chaos
+- Obsessed with nature
+- Love reciting the quran.
 - 👨🏽‍💻 Always learning new programming languages and tools.
 - 💬 Teaching, mentoring.
 - 🚀 Working on impactful tech for good.
@@ -104,6 +111,6 @@
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “The greatest jihad (struggle/striving) is to battle your own soul, to fight the evil within yourself.”” – Prophet Muhammad (peace be upon him)
 
 ```
