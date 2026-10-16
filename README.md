@@ -36,7 +36,7 @@
 
 # 👋 Hi, I'm Muhammad Habeebulah
 
-** 💻 Software Engineer | 🐧 Linux and  🔐  Security Enthusiast**
+** 💻 Security Analyst | Detection Engineering |   🔐  Security Enthusiast**
 
 🎯 Passionate about software and security, currently venturing into security 🔒.
 
