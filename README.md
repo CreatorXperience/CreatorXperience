@@ -10,28 +10,7 @@
 ░ ░▒ ▒░    ▒   ▒▒ ░░ ░ ▒  ░  ▒ ░   ░        ▒   ▒▒ ░    ░      ░ ░  ░
 ░ ░░ ░     ░   ▒     ░ ░     ▒ ░   ░ ░      ░   ▒     ░          ░   
 ░  ░           ░  ░    ░  ░  ░                  ░  ░           ░  ░
-
-
-
-                      [  A T T A C H     •     P E R S I S T     •     C O N T R O L  ]
-
-┌──────────────────────────────────────────────────┐  ┌─[ modules ]──────────────────────────────────────┐
-│ [>] framework   : kalifate                       │  │ 01) recon                 07) credential_access  │
-│ [>] codename    : attachment-driven c2 framework │  │ 02) resource              08) lateral_movement   │
-│ [>] version     : 1.0.0                          │  │ 03) initial_access        09) collection         │
-│ [>] author      : root@kalifate                  │  │ 04) execution             10) exfiltration       │
-│ [>] status      : operational                    │  │ 05) persistence           11) command_and_control│
-│ [>] listeners   : 0                              │  │ 06) privilege_escalation  12) impact             │
-│ [>] beacons     : 0                              │  └──────────────────────────────────────────────────┘
-│ [>] nodes       : 0                              │  ┌─[ active operations ]────────────────────────────┐
-│ [>] empire      : you                            │  │ no active operations                             │
-└──────────────────────────────────────────────────┘  └──────────────────────────────────────────────────┘
-
-[kalifate] root@kalifate:~# █
-
-                "The more you attach, the more control you gain."
-                                       ☠
-===================================================================================================                                                   
+                                                  
 ```
 
 # 👋 Hi, I'm Muhammad Habeebulah
@@ -41,6 +20,8 @@
 🎯 Passionate about software and security, currently venturing into security 🔒.
 
 😀 Fun fact: I’m done building software, there’s too much already. Now I just protect it.
+
+[Visit my Portfolio](https://muhammad-habeebullah.base44.app)
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHdjZHQyeTEzZnowcTV1NGZsNHFobjFnd2R6M2RoNGg0d3RwcjNyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTBVMsYIOB0SBP4MVe/giphy.gif" width="300" align="right" />
 
